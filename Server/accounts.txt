@@ -1,0 +1,2 @@
+test2:$2a$10$httzhPFG0lqCznfbMPMZwusRiJ5Dq8YyuT8ijr6VdgSPQsoWDzxJK:2000.0
+test:$2a$10$ShsavtTRiM5uk1p26AsnmOMU3lQ53w.xCc5AdPmUBqgLxoc0s1CZG:0.0
